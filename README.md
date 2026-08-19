@@ -234,11 +234,8 @@ Start the development server:
 npm run dev
 ```
 
-The frontend will normally be available at:
 
-```text
-http://localhost:5173
-```
+
 
 ---
 
